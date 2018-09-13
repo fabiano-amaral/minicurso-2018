@@ -1,0 +1,26 @@
+{
+  "name": "minicurso-2018",
+  "version": "1.0.0",
+  "description": "uma api em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiano-amaral/minicurso-2018.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "Fabiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiano-amaral/minicurso-2018/issues"
+  },
+  "homepage": "https://github.com/fabiano-amaral/minicurso-2018#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
